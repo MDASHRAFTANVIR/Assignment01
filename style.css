@@ -60,3 +60,78 @@ body {
 /*--Header Section End--*/
 /*--Header Section End--*/
 
+
+/*----------     Donate section Start     --------*/
+/*----------     Donate section Start     --------*/
+/*----------     Donate section Start     --------*/
+
+.donate_section {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.donate h2 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.donate p {
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    color: gray;
+}
+
+/*-- Donate Section Amount Option ---*/
+.dollar_amount {
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.amount {
+    width: 20%;
+    background-color: #F6F8FA;
+    margin-left: 2%;
+    padding: 18px 19px;
+}
+.amount h3 {
+    text-align: center;
+    color: gray;
+    font-size: 25px;
+}
+.color_amount {
+    border: 2px solid red;
+    background-color: #ffcccb;
+}
+.color_amount h3 {
+    color: red;
+}
+.amount_write h4 {
+    color: gray;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: -2px;
+}
+.amount_write hr {
+    color: gray;
+    margin-bottom: 40px;
+}
+.amount_write a {
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 13px 15px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    margin-left: 42.5%;
+}
+
+/*----------     Donate section End     --------*/
+/*----------     Donate section End     --------*/
+/*----------     Donate section End     --------*/
