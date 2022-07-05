@@ -61,9 +61,7 @@ body {
 /*--Header Section End--*/
 
 
-/*----------     Donate section Start     --------*/
-/*----------     Donate section Start     --------*/
-/*----------     Donate section Start     --------*/
+
 
 .donate_section {
     width: 60%;
@@ -83,7 +81,7 @@ body {
     color: gray;
 }
 
-/*-- Donate Section Amount Option ---*/
+
 .dollar_amount {
     display: flex;
     width: 100%;
@@ -132,6 +130,3 @@ body {
     margin-left: 42.5%;
 }
 
-/*----------     Donate section End     --------*/
-/*----------     Donate section End     --------*/
-/*----------     Donate section End     --------*/
