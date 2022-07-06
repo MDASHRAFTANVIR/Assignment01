@@ -228,3 +228,59 @@ body {
 /*------------------- 4th Section News and Blog section End ----*/
 /*------------------- 4th Section News and Blog section End ----*/
 
+
+
+/*------------------5th Section Subscription start ----*/
+/*------------------5th Section Subscription start ----*/
+/*------------------5th Section Subscription start ----*/
+
+
+.subscribe {
+    margin-top: 70px;
+    background-color: azure;
+    height: 550px;
+}
+.box1 {
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 40px;
+}
+.subscribe_word {
+    margin-bottom: 50px;
+}
+.subscribe_word h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+.subscribe_word p {
+    text-align: center;
+}
+.subscribe_form {
+    background-color: #e2acab;
+    padding: 90px 20px;
+}
+.subscribe_form form {
+    text-align: center;
+}
+.subscribe_form input {
+    padding: 15px 35px;
+    background-color: rgb(231, 224, 224);
+    color: gray;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    font-size: 15px;  
+}
+.subscribe_form button {
+    padding: 15px 20px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    font-size: 15px;
+    background-color: #FF5959;
+    color: white;
+    margin-left: -5px;
+}
+
+/*------------------5th Section Subscription End ----*/
+/*------------------5th Section Subscription End ----*/
+/*------------------5th Section Subscription End ----*/
