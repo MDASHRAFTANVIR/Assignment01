@@ -201,3 +201,30 @@ body {
 /*----------     Third Section Donate Plan End        --------*/
 /*----------     Third Section Donate Plan End        --------*/
 
+
+/*------------------- 4th Section News and Blog section Start ----*/
+/*------------------- 4th Section News and Blog section Start ----*/
+/*------------------- 4th Section News and Blog section Start ----*/
+
+.latest_news {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.portal {
+    width: 50%;
+    padding: 0 40px;
+}
+.portal h1 {
+    color: rgb(4, 72, 134);
+    font-size: 30px;
+    font-weight: 600;
+}
+.blog p {
+    text-align: justify;
+}
+
+/*------------------- 4th Section News and Blog section End ----*/
+/*------------------- 4th Section News and Blog section End ----*/
+/*------------------- 4th Section News and Blog section End ----*/
+
