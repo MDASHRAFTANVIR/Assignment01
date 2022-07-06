@@ -135,3 +135,69 @@ body {
 /*----------     Donate section End     --------*/
 /*----------     Donate section End     --------*/
 /*----------     Donate section End     --------*/
+
+
+/*----------     Third Section Donate Plan Start        --------*/
+/*----------     Third Section Donate Plan Start        --------*/
+/*----------     Third Section Donate Plan Start        --------*/
+
+.third_donate_plan {
+    background-color: #F6F8FA;
+    width: 100%;
+    height: 700px;
+
+}
+.plan_header {
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 30px;
+}
+.plan_header h1 {
+    text-align: center;
+    color: #1f1110;
+    font-size: 35px;
+    font-weight: 600;
+}
+.plan_header p {
+    text-align: center;
+    color: rgb(48, 41, 41);
+}
+
+
+/*--- 3 different Plan Section ---*/
+
+.different_plan {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+.plan {
+    width: 33.33%;
+    margin-left: 3%;
+    padding: 20px 30px;
+}
+.food_plan {
+    background-color: rgb(144, 144, 212);
+}
+.plan h3 {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.plan p {
+    color: rgb(24, 1, 12);
+    text-align: justify;
+}
+.shelter_plan {
+    background-color: #eb8d8c;
+}
+.education_plan {
+    background-color: rgb(92, 201, 164);
+}
+
+/*----------     Third Section Donate Plan End        --------*/
+/*----------     Third Section Donate Plan End        --------*/
+/*----------     Third Section Donate Plan End        --------*/
+
