@@ -259,6 +259,7 @@ body {
 .subscribe_form {
     background-color: #e2acab;
     padding: 90px 20px;
+    border-radius: 5px;
 }
 .subscribe_form form {
     text-align: center;
@@ -284,3 +285,30 @@ body {
 /*------------------5th Section Subscription End ----*/
 /*------------------5th Section Subscription End ----*/
 /*------------------5th Section Subscription End ----*/
+
+/*------------------Footer Section Start ----*/
+/*------------------Footer Section Start ----*/
+/*------------------Footer Section Start ----*/
+
+
+.final_section {
+    height: 200px;
+    background-color: #24292F;
+}
+.final_section h3 {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 28px;
+    font-family: 'Oleo Script', cursive;
+    color: #FF5959;
+}
+.final_section p {
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+    color: #F6F8FA;
+}
+
+/*------------------Footer Section End ----*/
+/*------------------Footer Section End ----*/
+/*------------------Footer Section End ----*/
